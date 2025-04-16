@@ -10,19 +10,6 @@ A minimal HTTP server built with Python using `asyncio`. This project is designe
 - Built-in request parsing and response generation
 - No external dependencies or frameworks
 
-## Project Structure
-└── mamarezak22-python-http-server/
-    ├── README.md
-    └── http/
-        ├── __init__.py
-        ├── handler.py
-        ├── handlers.py
-        ├── request.py
-        ├── response.py
-        ├── router.py
-        └── server.py
-
-
 ## How to Run
 
 ```bash
